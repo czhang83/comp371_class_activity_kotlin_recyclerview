@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "KotlinExample1"
+rootProject.name = "ClassActivity8"
